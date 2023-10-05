@@ -38,6 +38,7 @@ nav{
  .esas-blok {
         display: flex;
         justify-content: space-between;
+        
          width: 97%;
          background-color: #67980c;
         
@@ -56,6 +57,7 @@ nav{
     margin-bottom: 20px;
      flex:1;
      position: relative;
+
      bottom: -50px;
      top: 20px;
      padding: 20px; 
@@ -68,6 +70,7 @@ nav{
         width:150px;
         height: 50px;
         margin-bottom: 50px;
+        align-content: space-between;
         margin-top: 50px;
         flex: 2;
      
